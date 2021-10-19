@@ -6,10 +6,6 @@ import { Container } from "react-bootstrap"
 import CartWidget from '../CartWidget/CartWidget';
 import './NavBar.css'
 
-
-
-
-
 function CustomNavBar() {
     return (
         <div>
